@@ -9,7 +9,7 @@
 I'm <strong>Hariharan</strong>, pursuing my <u>BE</u> in Computer Science Engineering at PGPCET, <a href="[https://www.annauniv.edu/](https://www.pgpcet.ac.in/)">PGP College of Engineering and Technology</a> Namakkal. Being a Passionate student, who loves to learn & crack new technologies and can work across with different domains.<br> A computer geek likes to explore new things and solve real-world problems.
 </p>
 <p align="center"><b>Profile Views</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/IThariharan/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/hariharanrdev/count.svg" alt="visitor badge"/></p>
 <br/>
 
 ## 👨🏻‍💻 About Me:
