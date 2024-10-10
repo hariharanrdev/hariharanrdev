@@ -46,13 +46,13 @@ I'm <strong>Hariharan</strong>, pursuing my <u>BE</u> in Computer Science Engine
 ## ❤️ Let's get connected:
 
 <p align="center">
- <a href="https://www.codechef.com/users/hariharanr04" target="_blank">
+ <a href="https://www.codechef.com/users/hariharanrdev" target="_blank">
     <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23D41C4A.svg?&style=for-the-badge&logo=codechef&logoColor=white" height="30px"/>
   </a>
   <a href="https://www.linkedin.com/in/hariharanr04" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a> 
-  <a href="https://github.com/IThariharan" target="_blank">
+  <a href="https://github.com/hariharanrdev" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30px"/>
   </a> 
   <a href="https://www.hackerrank.com/hariharanrdev" target="_blank">
