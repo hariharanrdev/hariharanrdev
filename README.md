@@ -24,7 +24,7 @@ I'm <strong>Hariharan</strong>, pursuing my <u>BE</u> in Computer Science Engine
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- 🤔 I’m looking for help with `Competitive Programming & Real time Problem Solving`
 
 - 💬 Ask me about anything, except Electronics :sweat_smile:
 
