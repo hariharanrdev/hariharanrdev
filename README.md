@@ -70,7 +70,7 @@ I'm <strong>Hariharan</strong>, pursuing my <u>BE</u> in Computer Science Engine
 <div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hariharanrdev&show_icons=true&count_private=true&theme=tokyonight" alt="Stats" />
   <br><br>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharanrdevv&theme=tokyonight&hide=html&exclude_repo=portfolio,mit-healthcentre-website,MomConnect-360,staff-portfolio" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharanrdev&theme=tokyonight&hide=html&exclude_repo=portfolio,mit-healthcentre-website,MomConnect-360,staff-portfolio" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharanrdev&theme=tokyonight" alt="Streak" />
 </div>
